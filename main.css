@@ -1,0 +1,11 @@
+.background-homepage{
+    width: 100vw;
+    height: 70vh;
+    background-image: url('descarga.jpg');
+    background-size: 100% 100%;
+    margin-bottom: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
